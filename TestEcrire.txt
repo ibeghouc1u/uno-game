@@ -1,0 +1,108 @@
+CarteChiffre B🔵 0
+CarteChiffre B🔵 1
+CarteChiffre B🔵 1
+CarteChiffre B🔵 2
+CarteChiffre B🔵 2
+CarteChiffre B🔵 3
+CarteChiffre B🔵 3
+CarteChiffre B🔵 4
+CarteChiffre B🔵 4
+CarteChiffre B🔵 5
+CarteChiffre B🔵 5
+CarteChiffre B🔵 6
+CarteChiffre B🔵 6
+CarteChiffre B🔵 7
+CarteChiffre B🔵 7
+CarteChiffre B🔵 8
+CarteChiffre B🔵 8
+CarteChiffre B🔵 9
+CarteChiffre B🔵 9
+CartePlus2 B🔵
+CartePlus2 B🔵
+CartePasseTonTour B🔵
+CartePasseTonTour B🔵
+CarteChangementDeSens B🔵
+CarteChangementDeSens B🔵
+CarteChiffre R🔴 0
+CarteChiffre R🔴 1
+CarteChiffre R🔴 1
+CarteChiffre R🔴 2
+CarteChiffre R🔴 2
+CarteChiffre R🔴 3
+CarteChiffre R🔴 3
+CarteChiffre R🔴 4
+CarteChiffre R🔴 4
+CarteChiffre R🔴 5
+CarteChiffre R🔴 5
+CarteChiffre R🔴 6
+CarteChiffre R🔴 6
+CarteChiffre R🔴 7
+CarteChiffre R🔴 7
+CarteChiffre R🔴 8
+CarteChiffre R🔴 8
+CarteChiffre R🔴 9
+CarteChiffre R🔴 9
+CartePlus2 R🔴
+CartePlus2 R🔴
+CartePasseTonTour R🔴
+CartePasseTonTour R🔴
+CarteChangementDeSens R🔴
+CarteChangementDeSens R🔴
+CarteJoker
+CarteJoker
+CarteJoker
+CarteJoker
+CartePlus4
+CartePlus4
+CartePlus4
+CartePlus4
+CarteChiffre V🟢 0
+CarteChiffre V🟢 1
+CarteChiffre V🟢 1
+CarteChiffre V🟢 2
+CarteChiffre V🟢 2
+CarteChiffre V🟢 3
+CarteChiffre V🟢 3
+CarteChiffre V🟢 4
+CarteChiffre V🟢 4
+CarteChiffre V🟢 5
+CarteChiffre V🟢 5
+CarteChiffre V🟢 6
+CarteChiffre V🟢 6
+CarteChiffre V🟢 7
+CarteChiffre V🟢 7
+CarteChiffre V🟢 8
+CarteChiffre V🟢 8
+CarteChiffre V🟢 9
+CarteChiffre V🟢 9
+CartePlus2 V🟢
+CartePlus2 V🟢
+CartePasseTonTour J🟡
+CartePasseTonTour J🟡
+CarteChangementDeSens J🟡
+CarteChangementDeSens J🟡
+CarteChiffre J🟡 0
+CarteChiffre J🟡 1
+CarteChiffre J🟡 1
+CarteChiffre J🟡 2
+CarteChiffre J🟡 2
+CarteChiffre J🟡 3
+CarteChiffre J🟡 3
+CarteChiffre J🟡 4
+CarteChiffre J🟡 4
+CarteChiffre J🟡 5
+CarteChiffre J🟡 5
+CarteChiffre J🟡 6
+CarteChiffre J🟡 6
+CarteChiffre J🟡 7
+CarteChiffre J🟡 7
+CarteChiffre J🟡 8
+CarteChiffre J🟡 8
+CarteChiffre J🟡 9
+CarteChiffre J🟡 9
+CartePlus2 J🟡
+CartePlus2 J🟡
+CartePasseTonTour V🟢
+CartePasseTonTour V🟢
+CarteChangementDeSens V🟢
+CarteChangementDeSens V🟢
