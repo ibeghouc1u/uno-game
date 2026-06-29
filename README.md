@@ -28,17 +28,6 @@ src/
     └── Main.java
 ```
 
-## Compile
-
-```bash
-javac -d out src/uno/**/*.java src/uno/*.java
-```
-
-## Run
-
-```bash
-java -cp out uno.Main
-```
 
 ## How to Play
 
